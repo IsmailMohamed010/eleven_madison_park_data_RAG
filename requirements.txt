@@ -1,0 +1,5 @@
+langchain==0.2.16
+langchain-community==0.2.16
+chromadb==0.5.3
+gradio==4.44.0
+ollama==0.3.0
